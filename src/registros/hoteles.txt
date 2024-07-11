@@ -1,0 +1,12 @@
+1::Hotel Playasol::Playa::100
+2::Hotel Rural El Roble::Rural::70
+3::Hotel Montaña Nevada::Montaña::120
+4::Hotel Sol y Mar::Playa::90
+5::Hotel Monteblanco::Montaña::110
+6::Hotel Playa Blanca::Playa::80
+7::Hotel Rural La Finca::Rural::60
+8::Hotel Montaña Azul::Montaña::130
+9::Hotel Playamar::Playa::100
+10::Hotel Rural La Pradera::Rural::70
+11::Hotel Montaña Nevada II::Montaña::120
+12::Hotel Playa Blanca II::Playa::90
